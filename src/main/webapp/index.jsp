@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Jumbotron Template for Bootstrap</title>
+    <title>DevOps training website</title>
 
 
     <!-- Custom styles for this template -->
@@ -31,7 +31,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Devops-training</a>
+            <a class="navbar-brand" href="#">Web-Application</a>
         </div>
         <div class="navbar-collapse collapse">
             <form class="navbar-form navbar-right" role="form">
@@ -61,14 +61,14 @@
      <div class="row">
         <div class="col-md-4">
             <h2>Devops</h2>
-            <p>DevOps is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.</p>
+            <p>DevOps is a software development methodology that emphasizes collaboration, automation, and continuous delivery. It aims to break down silos between development and operations teams, enabling faster and more reliable software delivery, and improved efficiency in software development, deployment, and maintenance processes.</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
     </div>
     <div class="row">
         <div class="col-md-4">
             <h2>Jenkins</h2>
-            <p>Jenkins is a free and open source automation server. Jenkins helps to automate the non-human part of the software development process, with continuous integration and facilitating technical aspects of continuous delivery</p>
+            <p>Jenkins is a popular open-source automation server that supports continuous integration and continuous delivery in software development. It enables building, testing, and deploying software across multiple platforms and environments through various plugins and integrations.</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
@@ -78,7 +78,7 @@
         </div>
 <!--         <div class="col-md-4">
             <h2>Docker</h2>
-            <p>Docker is a set of platform as a service products that uses OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels</p>
+            <p>Docker is a popular open-source platform that enables developers to package, deploy, and run applications in isolated containers. It provides an efficient and lightweight way to run applications across multiple environments, reducing compatibility issues and enabling faster software delivery.</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div> -->
     </div>
@@ -86,7 +86,7 @@
     <hr>
 
     <footer>
-        <p>&copy; Company 2014</p>
+        <p>Devops Company 2023</p>
     </footer>
 </div> <!-- /container -->
 
@@ -100,5 +100,3 @@
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
 </body>
 </html>
-
-
